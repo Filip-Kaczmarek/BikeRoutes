@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.173" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.173" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/drawable/ic_wheel_svgrepo_com.xml" value="0.2935" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/layout-large/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/layout/activity_detail.xml" value="0.17" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/layout/activity_loading_screen.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/layout/fragment_all_routes.xml" value="0.1" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/layout/fragment_easy_routes.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/layout/fragment_hard_routes.xml" value="0.1" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/layout/fragment_medium_routes.xml" value="0.1" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/layout/fragment_route_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/layout/fragment_route_list.xml" value="0.15" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/layout/fragment_routes_list.xml" value="0.1" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/layout/fragment_timer.xml" value="0.18" />
+        <entry key="..\:/Users/Filip/Desktop/SportsApp/app/src/main/res/layout/route_item.xml" value="0.4400871459694989" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

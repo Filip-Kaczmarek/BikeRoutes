@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bike Routes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="routeTitle">Route Name</string>
+    <string name="routeDescription">Route Description</string>
+    <string name="routeLength">0.0 km</string>
+    <string name="routeLengthLabel">"Route length: "</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
